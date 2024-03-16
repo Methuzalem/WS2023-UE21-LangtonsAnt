@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703094332 source:c:\dev\prozd\langtonsant\main.c
+	<stdio.h>
+	<stdlib.h>
+
